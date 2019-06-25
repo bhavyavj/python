@@ -1,7 +1,6 @@
 #!/usr/bin/python36
 
-#you need to install google library for this program
-#install via 'pip install google'
+#install google library for this program via 'pip install google'
 
 import webbrowser
 from googlesearch import search
